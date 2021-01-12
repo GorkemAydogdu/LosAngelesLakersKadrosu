@@ -1,5 +1,5 @@
 ## Los Angeles Lakers Kadrosu
- Bu Proje mobil yazılımlar dersi için hazırlanmıştır
+Los Angeles Lakers Oyuncuları hakkında detaylı bilgiler
  
 ## Projenin Logosu
 <p align="center">
