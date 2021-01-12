@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="card_padding">16dp</dimen>
+    <dimen name="text_size">14sp</dimen>
+    <dimen name="layout_width">200dp</dimen>
+    <dimen name="layout_height">200dp</dimen>
+    <dimen name="top_Margin">24dp</dimen>
+    <dimen name="left_Margin">24dp</dimen>
+    <dimen name="layout_wh">125dp</dimen>
+    <dimen name="logo_boyut">100dp</dimen>
+    <dimen name="logo_yukseklik">75dp</dimen>
+    <dimen name="kapak_boyut">250dp</dimen>
+    <dimen name="text_padding">10dp</dimen>
+
+</resources>

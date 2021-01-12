@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Los Angeles Lakers Kadrosu</string>
+    <string name="oyuncu_adi">Oyuncu Adi</string>
+    <string name="boy">Boy : </string>
+    <string name="kilo">Kilo : </string>
+    <string name="draft_Tarihi">Draft Edildiği Tarih :</string>
+    <string name="aciklama">Aciklama : </string>
+
+    <string name="interneti_ac">İnterneti Aç</string>
+    <string name="hata_mesaj">Uygulamayı kullanabilmek için internet bağlantısı gereklidir</string>
+    <string name="uyarı">UYARI!</string>
+    <string name="uygulama_kapat">Uygulamayı Kapat</string>
+    <string name="counter">COUNTER</string>
+    <string name="finish">FINISH</string>
+    <string name="tiklanan_adi">Tıklanan Adi : </string>
+    <string name="retrofit">RETROFIT </string>
+    <string name="onSubscribe">onSubscribe : </string>
+    <string name="onNext">onNext : </string>
+    <string name="onError">onError : </string>
+    <string name="onComplete">onComplete : </string>
+    <string name="bekleyiniz">Lütfen Bekleyiniz </string>
+    <string name="uygulamadanCikma">Uygulamadan çıkmak istiyor musunuz ?</string>
+    <string name="evet">Evet</string>
+    <string name="Hayir">Hayir</string>
+</resources>
