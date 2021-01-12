@@ -1,4 +1,4 @@
-
+## Los Angeles Lakers Kadrosu
  Bu Proje mobil yazılımlar dersi için hazırlanmıştır
 ## EKRAN GORUNTULERI
 <p align="center">
