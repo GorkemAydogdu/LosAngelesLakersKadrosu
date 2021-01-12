@@ -1,13 +1,16 @@
 ## Los Angeles Lakers Kadrosu
  Bu Proje mobil yazılımlar dersi için hazırlanmıştır
+ 
 ## Projenin Logosu
 <p align="center">
 <img src= https://raw.githubusercontent.com/GorkemAydogdu/LosAngelesLakersKadrosu/master/Logo%26MimariPaketYapisi/Logo.jpg height = "150"/>
 </p>
+
 ## Mimari Paket Yapisi
 <p align="center">
 <img src="https://raw.githubusercontent.com/GorkemAydogdu/LosAngelesLakersKadrosu/master/Logo%26MimariPaketYapisi/MimariPaketYapisi.jpg" height = "150"/>
 </p>
+
 ## EKRAN GORUNTULERI
 <p align="center">
 <img src="https://raw.githubusercontent.com/GorkemAydogdu/LosAngelesLakersKadrosu/master/app/Screens/E1Ekrani.jpg" height = "150"/>
